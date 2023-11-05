@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:uts/screens/history_tab_screen.dart';
-import 'package:uts/screens/home_tab_screen.dart';
+import 'package:uts_mobile_flutter/screens/history_tab_screen.dart';
+import 'package:uts_mobile_flutter/screens/home_tab_screen.dart';
 
 void main() {
   runApp(
